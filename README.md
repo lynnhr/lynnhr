@@ -1,7 +1,7 @@
 ## 👋 Lynn Haydar
 
 <p align="center">
-  <img src="Cat Coding GIF - Find & Share on GIPHY.gif" alt="Lynn Haydar Pink Banner"/>
+  <img src="Cat Coding GIF - Find & Share on GIPHY.gif" alt="Lynn Haydar Pink Banner" width="200"/>
 </p>
 
 <p align="center">
@@ -11,13 +11,26 @@
 </p>
 <br>
 
-🌸 Hello! I'm **Lynn Haydar**, a Computer Science student & aspiring software/web developer with an interest in AI.  
-   I love building thoughtful digital experiences, blending technology and creativity to solve real-world problems. 
+```javascript
+const lynn = {
+  education: {
+    degree: "B.Tech in Computer Science",
+    institution: "Antonine University (2023-Current)", 
+  },
+  techCommunities: {
+    member: "IEEE (2025 – Current)",
+    member: "Robotics Society (2025 - Current)"
+  },
+  work: {
+    title: "Web & AI Integration Intern",
+    company: "FlexBox AI - Dubai (Remote, 06/2024 – 01/2025)"
+  },
+  languages: ["Arabic", "English", "French"],
+  challenge: "I am passionate about building web and AI solutions, and actively seeking new projects and learning opportunities in tech."
+};
+
+```
 <br>
-📚 Education & Training: B.Tech in Computer Science, Antonine University (2023 – Present)<br>
-🦋Volunteering & Leadership: IEEE and robotics society member  (2025–Current) 
- <br>
- <br>
 
 ## 🌷 Skills & Tools
 
@@ -34,6 +47,7 @@
  ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 <br>
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![plsql]( https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
