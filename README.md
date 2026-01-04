@@ -1,12 +1,12 @@
 ## 🌸 Lynn Haydar
 
-<p align="center">
+<!-- <p align="center">
   <img src="Cat Coding GIF - Find & Share on GIPHY.gif" alt="Lynn Haydar Pink Banner" width="200"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Science%20Student-%23F8BBD0?style=flat-square"/>
-   <img src="https://img.shields.io/badge/IEEE%20Member-%23FADADD?style=flat-square&logo=ieee&logoColor=white"/>
+   <!-- <img src="https://img.shields.io/badge/IEEE%20Member-%23FADADD?style=flat-square&logo=ieee&logoColor=white"/> -->
   
 </p>
 <br>
