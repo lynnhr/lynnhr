@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-%23F8BBD0?style=flat-square"/>
+  <!-- <img src="https://img.shields.io/badge/Computer%20Science%20Student-%23F8BBD0?style=flat-square"/> -->
    <!-- <img src="https://img.shields.io/badge/IEEE%20Member-%23FADADD?style=flat-square&logo=ieee&logoColor=white"/> -->
   
 </p>
