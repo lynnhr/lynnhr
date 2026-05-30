@@ -65,13 +65,6 @@ const lynn = {
 
 ---
 
-## 📬 Contact
-
-- ✉️ Email: lynnhaydar5@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/lynn-haydar](https://linkedin.com/in/lynn-haydar)
-
----
-
 ![GitHub Snake](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.gif)
 
 ---
