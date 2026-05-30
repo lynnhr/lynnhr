@@ -66,8 +66,8 @@ const lynn = {
 ---
 
 <!-- ![GitHub Snake](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.gif) -->
+<!-- ![GitHub Snake dark](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.svg) -->
 ![GitHub Snake dark](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.svg)
-
 ---
 
  <!-- [![let's bloom together 🌸](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F48FB1&background=FADAD00&center=true&vCenter=true&multiline=true&width=435&height=35&lines=let's+bloom+together+%F0%9F%8C%B8)](https://github.com/lynnhr) -->
