@@ -56,12 +56,12 @@ const lynn = {
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org)
 
----
+<!---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lynnhr&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lynnhr&theme=dark)](https://git.io/streak-stats) -->
 
-<!-- GitHub Activity Graph -->
-[![lynnhr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lynnhr&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<!-- GitHub Activity Graph 
+[![lynnhr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lynnhr&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)-->
 
 ---
 
