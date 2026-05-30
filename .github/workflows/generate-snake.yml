@@ -15,10 +15,9 @@ jobs:
           github_user_name: lynnhr
           outputs: |
             ./github-contribution-grid-snake.svg
-          color_snake: "#25b09b"
-          color_dots: "#161B22,#3fb950,#39d353,#53fc53,#b3fcae"
-          color_border: "#000000"
-          background: "#0D1117"
+          color_snake: "#2E77B3"                # A visually appealing blue snake
+          color_dots: "#161B22,#3fb950,#39d353,#b3fcae,#fff"   # Nice green/white dots for contrast
+          background: "#0D1117"                 # Classic GitHub dark mode background
       - name: Push snake game to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
