@@ -65,7 +65,8 @@ const lynn = {
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.gif)
+<!-- ![GitHub Snake](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.gif) -->
+![GitHub Snake dark](https://raw.githubusercontent.com/lynnhr/lynnhr/output/github-contribution-grid-snake.svg)
 
 ---
 
